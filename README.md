@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zarathustra4
-- 👀 I’m interested in math (discreete math, linear algebra), programming (C++, Java, Python) 
-- 🌱 I’m currently learning machine learning on Coursera
+- 👀 I’m interested in math (discreete math, linear algebra), programming (Java, Python) 
+- 🌱 I’m currently learning Java Spring, networks, math. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 - my email - maxvoloshchuk1@gmail.com
